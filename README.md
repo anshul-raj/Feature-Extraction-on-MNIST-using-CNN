@@ -1,5 +1,5 @@
 # Feature Extraction on MNIST using-CNN
-CNN for Foreground Detection,Circlization and Image segmentation on MNIST dataset made using Tensorflow,Keras,cv2
+CNN for Foreground Detection,Circlization and Image segmentation on MNIST dataset made using Tensorflow, Keras and cv2.
 
 This notebook contains 3 parts
 
