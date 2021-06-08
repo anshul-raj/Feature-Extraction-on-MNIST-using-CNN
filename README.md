@@ -27,4 +27,6 @@ Creating new images by radomly concatinating 4 images in a 2x2 format and then t
 ![image](https://user-images.githubusercontent.com/53338289/121177016-8651b880-c87a-11eb-94a6-d6efeb86c505.png)
 Concatinated image
 
-##Using Pre Trained Models
+## Using Pre Trained Models
+
+You can use the pretrained models by downloading the model folder and then using the following code.
